@@ -1,6 +1,6 @@
 # Referencearkitektur for brugerstyring
 
-Body: 
+
 
 ## Summary in English
 

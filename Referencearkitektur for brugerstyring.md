@@ -1,5 +1,5 @@
 # Referencearkitektur for brugerstyring
-v 0.1
+
 ## Summary in English
 
 Recently a number of common public sector identity and access management solutions have been established in collaboration between various public parties. These solutions ensure coherence within defined areas, but there is still an opportunity to improve the overall cohesiveness in common public digital initiatives and solutions.

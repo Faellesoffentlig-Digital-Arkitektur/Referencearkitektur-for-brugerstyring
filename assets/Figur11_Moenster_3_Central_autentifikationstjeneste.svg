@@ -2,19 +2,19 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="270mm"
+   width="277mm"
    height="120mm"
    id="svg4905"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="Figur 11 - Mønster 3 -Central autentifikationstjeneste.svg">
+   inkscape:version="1.4.2 (ebf0e94, 2025-05-08)"
+   sodipodi:docname="Figur11_Moenster_3_Central_autentifikationstjeneste.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs4907">
     <inkscape:path-effect
@@ -75,16 +75,19 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.2279853"
-     inkscape:cx="748.99907"
-     inkscape:cy="335.93591"
+     inkscape:cx="886.81843"
+     inkscape:cy="335.91607"
      inkscape:current-layer="layer1"
      id="namedview4909"
      showgrid="false"
-     inkscape:window-width="1280"
-     inkscape:window-height="657"
-     inkscape:window-x="1272"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1" />
+     inkscape:window-width="3440"
+     inkscape:window-height="1334"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
   <metadata
      id="metadata4911">
     <rdf:RDF>
@@ -101,6 +104,14 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
+    <rect
+       style="fill:#ffffff;stroke-width:0.954881;stroke-linecap:round;paint-order:markers stroke fill"
+       id="rect1"
+       width="1055.3872"
+       height="464.17493"
+       x="-7.3290782"
+       y="-2.4430261"
+       ry="0" />
     <rect
        style="fill:none;stroke:#4d4d4d;stroke-width:0.66588295;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:4.16574984, 4.16574984;stroke-dashoffset:0"
        id="rect3500"
@@ -198,16 +209,15 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-size:22px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Paralucent Medium;-inkscape-font-specification:Sans"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Paralucent Medium';-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        x="130.29472"
        y="224.5443"
-       id="text6292"
-       sodipodi:linespacing="125%"><tspan
+       id="text6292"><tspan
          sodipodi:role="line"
          id="tspan6294"
          x="130.29472"
          y="224.5443"
-         style="font-style:oblique;fill:#4d4d4d;fill-opacity:1;-inkscape-font-specification:'Paralucent Medium, Oblique'">trust boundary</tspan></text>
+         style="font-style:oblique;font-size:22px;line-height:1.25;-inkscape-font-specification:'Paralucent Medium, Oblique';fill:#4d4d4d;fill-opacity:1">trust boundary</tspan></text>
     <rect
        ry="5.3695288"
        y="314.00757"
@@ -233,82 +243,76 @@
        id="rect6300"
        style="fill:none;stroke:#4d4d4d;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
     <text
-       sodipodi:linespacing="125%"
        id="text4176"
        y="343.72961"
        x="123.19598"
-       style="font-size:22px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#577ed9;fill-opacity:1;stroke:none;font-family:Paralucent Medium;-inkscape-font-specification:Sans"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Paralucent Medium';-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#577ed9;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
-         style="font-size:20px;text-align:start;text-anchor:start;fill:#577ed9;fill-opacity:1;font-weight:bold;-inkscape-font-specification:'Paralucent Medium, Bold'"
+         style="font-weight:bold;font-size:20px;line-height:1.25;-inkscape-font-specification:'Paralucent Medium, Bold';text-align:start;text-anchor:start;fill:#577ed9;fill-opacity:1"
          id="tspan4178"
          y="343.72961"
          x="123.19598"
          sodipodi:role="line">forretningstjeneste</tspan></text>
     <text
-       sodipodi:linespacing="125%"
        id="text6352"
        y="101.60435"
        x="428.74268"
-       style="font-size:22px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#99002a;fill-opacity:1;stroke:none;font-family:Paralucent Medium;-inkscape-font-specification:Sans"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Paralucent Medium';-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#99002a;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
-         style="font-size:20px;fill:#99002a;fill-opacity:1;font-weight:bold;-inkscape-font-specification:'Paralucent Medium, Bold'"
+         style="font-weight:bold;font-size:20px;line-height:1.25;-inkscape-font-specification:'Paralucent Medium, Bold';fill:#99002a;fill-opacity:1"
          y="101.60435"
          x="428.74268"
          id="tspan6354"
          sodipodi:role="line">autentifikation</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:22px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#99002a;fill-opacity:1;stroke:none;font-family:Paralucent Medium;-inkscape-font-specification:Sans"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Paralucent Medium';-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#99002a;fill-opacity:1;stroke:none"
        x="879.03918"
        y="101.60435"
-       id="text6356"
-       sodipodi:linespacing="125%"><tspan
+       id="text6356"><tspan
          sodipodi:role="line"
          id="tspan6358"
          x="879.03918"
          y="101.60435"
-         style="font-size:20px;fill:#99002a;fill-opacity:1;font-weight:bold;-inkscape-font-specification:'Paralucent Medium, Bold'">attributattestation</tspan></text>
+         style="font-weight:bold;font-size:20px;line-height:1.25;-inkscape-font-specification:'Paralucent Medium, Bold';fill:#99002a;fill-opacity:1">attributattestation</tspan></text>
     <text
-       sodipodi:linespacing="125%"
        id="text6360"
        y="-714.08252"
        x="93.336494"
-       style="font-size:22px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#99002a;fill-opacity:1;stroke:none;font-family:Paralucent Medium;-inkscape-font-specification:Sans"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Paralucent Medium';-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#99002a;fill-opacity:1;stroke:none"
        xml:space="preserve"
-       transform="matrix(0,1,-1,0,0,0)"><tspan
-         style="font-size:20px;fill:#99002a;fill-opacity:1"
+       transform="rotate(90)"><tspan
+         style="font-size:20px;line-height:1.25;fill:#99002a;fill-opacity:1"
          y="-714.08252"
          x="93.336494"
          id="tspan6362"
          sodipodi:role="line">tillidstjeneste</tspan></text>
     <text
-       transform="matrix(0,1,-1,0,0,0)"
+       transform="rotate(90)"
        xml:space="preserve"
-       style="font-size:22px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#99002a;fill-opacity:1;stroke:none;font-family:Paralucent Medium;-inkscape-font-specification:Sans"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Paralucent Medium';-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#99002a;fill-opacity:1;stroke:none"
        x="96.593864"
        y="-279.22388"
-       id="text6364"
-       sodipodi:linespacing="125%"><tspan
+       id="text6364"><tspan
          sodipodi:role="line"
          id="tspan6366"
          x="96.593864"
          y="-279.22388"
-         style="font-size:20px;fill:#99002a;fill-opacity:1">tillidstjeneste</tspan></text>
+         style="font-size:20px;line-height:1.25;fill:#99002a;fill-opacity:1">tillidstjeneste</tspan></text>
     <text
-       sodipodi:linespacing="125%"
        id="text6731"
        y="-73.077896"
        x="338.99207"
-       style="font-size:22px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#577ed9;fill-opacity:1;stroke:none;font-family:Paralucent Medium;-inkscape-font-specification:Sans"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Paralucent Medium';-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#577ed9;fill-opacity:1;stroke:none"
        xml:space="preserve"
-       transform="matrix(0,1,-1,0,0,0)"><tspan
-         style="font-size:20px;fill:#577ed9;fill-opacity:1"
+       transform="rotate(90)"><tspan
+         style="font-size:20px;line-height:1.25;fill:#577ed9;fill-opacity:1"
          y="-73.077896"
          x="338.99207"
          id="tspan6733"
          sodipodi:role="line">tjeneste-</tspan><tspan
-         style="font-size:20px;fill:#577ed9;fill-opacity:1"
-         y="-48.077896"
+         style="font-size:20px;line-height:1.25;fill:#577ed9;fill-opacity:1"
+         y="-44.25663"
          x="338.99207"
          sodipodi:role="line"
          id="tspan6735">udbyder</tspan></text>

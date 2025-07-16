@@ -1027,7 +1027,7 @@ I et sammenhængende, skalérbart og sikkert økosystem af tillidstjenester og f
 
 Nedenstående figur 16 illustrerer den kæde af tillid, der kan optræde mellem tillidstjenester og forretningstjenester i et komplekst scenarie. Denne kæde skal være identificeret og beskrevet i en føderation, hvor der kan være en række tillidstjenester involveret i føderationen. Man skal her være eksplicit om, hvilket sikringsniveau de enkelte tjenester opererer på, for det vil være det laveste sikringsniveau i hele kæden, der er bestemmende for det samlede sikringsniveau. For enkelhed i illustrationen er der her tegnet en føderation med kun én af hver tillidstjeneste repræsenteret.
 
-![Figur 18.gif](C:\Users\B339605\Documents\GitHub\Referencearkitektur-for-brugerstyring\assets\Figur%2018.gif)
+![Figur18_Kæde_af_tillid_i_et_tjenestekald.gif](assets/Figur18_Kæde_af_tillid_i_et_tjenestekald.gif)
 
 Figur 18: Kæde af tillid i et tjenestekald 
 
@@ -1115,7 +1115,7 @@ Adgangskontrollen er tjenesteudbyders ansvar, men tekniske funktioner kan levere
 
 Nedenstående figur fra Wikipedia \[[44](/node/1098#bilag-1-kilder-og-baggrundsmateriale)\] viser samspillet mellem de forskellige komponenter i XACML:
 
-![Figur 21.gif](C:\Users\B339605\Documents\GitHub\Referencearkitektur-for-brugerstyring\assets\Figur%2021.gif)
+![Figur21_XACML_standardens_arkitektur.gif](assets/Figur21_XACML_standardens_arkitektur.gif)
 
 Figur 21: XACML standardens arkitektur
 
@@ -1173,7 +1173,7 @@ Ovenstående kan generaliseres til alle typer applikationer, der via føderation
 
 Løsningen er illustreret på følgende figur:
 
-![Figur 22.jpg](C:\Users\B339605\Documents\GitHub\Referencearkitektur-for-brugerstyring\assets\Figur%2022.jpg)
+![Figur22_Model_til_brug_for_brugerstyringstjenester_i_processer.jpg](assets/Figur22_Model_til_brug_for_brugerstyringstjenester_i_processer.jpg)
 
 Figur 22: Model til brug for brugerstyringstjenester i processer 
 
@@ -1197,7 +1197,7 @@ Det skal bemærkes, at brugerautentifikationen (indlejret i OAuth eller OpenID C
 
 Et eksempel på, hvordan et udbredt mønster for autorisering af en app med OpenID Connect kunne se ud, er illustreret i den følgende figur:
 
-![Figur 23.jpg](C:\Users\B339605\Documents\GitHub\Referencearkitektur-for-brugerstyring\assets\Figur%2023.jpg)
+![Figur23_Eksempel_på_autorisering_af_en_mobil_app_via_OpenID_Connect_med_en_indlejret_SAMLbaseret_brugerautentikation.jpg](assets/Figur23_Eksempel_på_autorisering_af_en_mobil_app_via_OpenID_Connect_med_en_indlejret_SAMLbaseret_brugerautentikation.jpg)
 
 Figur 23: Eksempel på autorisering af en mobil app via OpenID Connect med en indlejret SAML-baseret brugerautentikation 
 
@@ -1373,37 +1373,37 @@ Den formelle begrebsmodel for denne referencearkitektur kan findes i [excel](htt
 
 ### Brugerstyring
 
-![Figur 24.jpg](C:\Users\B339605\Documents\GitHub\Referencearkitektur-for-brugerstyring\assets\Figur%2024.jpg)
+![Figur24_Oversigtsdiagram_brugerstyring.jpg](assets/Figur24_Oversigtsdiagram_brugerstyring.jpg)
 
 Figur 24: Oversigtsdiagram - Brugerstyring 
 
 ### Bruger og Entitet
 
-![Figur 25.jpg](C:\Users\B339605\Documents\GitHub\Referencearkitektur-for-brugerstyring\assets\Figur%2025.jpg)
+![Figur25_Kontekstdiagram_bruger_og_entitet.jpg](assets/Figur25_Kontekstdiagram_bruger_og_entitet.jpg)
 
 Figur 25: Kontekstdiagram -Bruger og entitet 
 
 ### Digital identitet og autentifikation
 
-![Figur 26.jpg](C:\Users\B339605\Documents\GitHub\Referencearkitektur-for-brugerstyring\assets\Figur%2026.jpg)
+![Figur26_Kontekstdiagram_digital_identitet_og_autentifikation.jpg](assets/Figur26_Kontekstdiagram_digital_identitet_og_autentifikation.jpg)
 
 Figur 26: Kontekstdiagram - Digital identitet og autentifikation 
 
 ### Adgang
 
-![Figur 27.jpg](C:\Users\B339605\Documents\GitHub\Referencearkitektur-for-brugerstyring\assets\Figur%2027.jpg)
+![Figur27_Kontekstdiagram_adgange.jpg](assets/Figur27_Kontekstdiagram_adgange.jpg)
 
 Figur 27: Kontekstdiagram - Adgange 
 
 ### Adgangsbilletter og attributter
 
-![Figur 28.jpg](C:\Users\B339605\Documents\GitHub\Referencearkitektur-for-brugerstyring\assets\Figur%2028.jpg)
+![Figur28_Konktekst_adgangsbilletter_og_attributter.jpg](assets/Figur28_Konktekst_adgangsbilletter_og_attributter.jpg)
 
 Figur 28: Kontekstdiagram - Adgangsbilletter og attributter 
 
 ### Tjenestetyper
 
-![Figur 29.jpg](C:\Users\B339605\Documents\GitHub\Referencearkitektur-for-brugerstyring\assets\Figur%2029.jpg)
+![Figur29_Kontekstdiagram_tjenestetyper.jpg](assets/Figur29_Kontekstdiagram_tjenestetyper.jpg)
 
 Figur 29: Kontekstdiagram – Tjenestetyper 
 
@@ -1545,13 +1545,13 @@ I dette bilag beskrives to konkrete eksempler på tværgående brugerstyring.
 
 I dette afsnit gives en beskrivelse af arkitekturen i den kommende fællesoffentlige infra-struktur i form af MitID og NemLog-in3 som et eksempel på komponenter, der udmøn-ter koncepter og begreber i referencearkitekturen. Nedenstående figur illustrerer over-ordnet principperne i den nye infrastruktur:
 
-![Figur 30.jpg](C:\Users\B339605\Documents\GitHub\Referencearkitektur-for-brugerstyring\assets\Figur%2030.jpg)
+![Figur30_NemLogin3_kontekst.jpg](assets/Figur30_NemLogin3_kontekst.jpg)
 
 Figur 30: Nemlogin3 kontekst
 
 Der er tale om en lagdelt model, hvor forretningstjenester skal koble sig til en broker (NemLog-in3 anvendes af offentlige tjenesteudbydere), og hvor kun brokerne har en integration med MitID. For den offentlige del baseres tilliden bl.a. på NSIS og eIDAS, og derudover er der specifikke aftaler og vilkår mellem de forskellige lag i infrastrukturen. Nedenstående BPMN-diagram viser samarbejdet mellem en forretningstjeneste og tre tillidstjenester (NemLog-in som broker, MitID som autentifikationstjeneste og CVR registreret som attributtjeneste) i et konkret forløb gennem infrastrukturens komponenter, når en bruger logger ind på en erhvervsrettet løsning:
 
-![Figur 31.jpg](C:\Users\B339605\Documents\GitHub\Referencearkitektur-for-brugerstyring\assets\Figur%2031.jpg)
+![Figur31_NemLogin3_samarbejde_imellem_tjenester.jpg](assets/Figur31_NemLogin3_samarbejde_imellem_tjenester.jpg)
 
 Figur 31: NemLogin3 samarbejde imellem tjenester
 
@@ -1572,7 +1572,7 @@ Infrastrukturen udmønter en række af de begreber og elementer, der er beskreve
 
 I dette afsnit gives en beskrivelse af arkitekturen i moderniseringen af Unilogin, som tager udgangspunkt i en målarkitektur for Unilogins systemlandskab, der er opdelt i de tre overordnede komponenter Unilogin Broker, Autorisationskomponenten og SkoleGrunddata. Unilogin behandles her som et eksempel på komponenter, der udmønter koncepter og begreber i referencearkitekturen. Nedenstående figur illustrerer overordnet principperne i målarkitekturen for Unilogin: 
 
-![Figur 32.jpg](C:\Users\B339605\Documents\GitHub\Referencearkitektur-for-brugerstyring\assets\Figur%2032.jpg)
+![Figur32_Unilogin_målarkitektur.jpg](assets/Figur32_Unilogin_målarkitektur.jpg)
 
 Figur 32: Unilogin målarkitektur 
 
@@ -1580,7 +1580,7 @@ Der er tale om en brokered model, hvor forretningstjenester skal koble sig til U
 
 Nedenstående komponentmodel viser samarbejdet mellem IdP, broker og forretningstjenester:
 
-![Figur 33.jpg](C:\Users\B339605\Documents\GitHub\Referencearkitektur-for-brugerstyring\assets\Figur%2033.jpg)
+![Figur33_Unilogin_komponentmodel.jpg](assets/Figur33_Unilogin_komponentmodel.jpg)
 
 Figur 33: Unilogin komponentmodel
 

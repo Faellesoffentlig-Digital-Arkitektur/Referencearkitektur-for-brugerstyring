@@ -209,7 +209,7 @@ Et fællestræk ved apparater og applikationer er, at de skal konfigureres med e
 
 I arkitekturen benyttes termen _adgangsbilletter_ som en abstraktion for en samling af _attributter_ vedr. en bestemt bruger, der benyttes i _adgangskontrollen_ for en given _tjeneste_. Attributterne kan beskrive både _digital identitet_, rettigheder og andre oplysninger om brugeren.
 
-![Figur4_Begrebsoverblik.svg](assets/Figur4_Begrebsoverblik.svg)
+![Figur4_Begrebsoverblik.svg](assets/Figur4_Begrebsoverblik_UFÆRDIG.svg)
 
 Figur 4: Begrebsoverblik
 

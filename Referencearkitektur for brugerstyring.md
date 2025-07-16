@@ -820,7 +820,7 @@ Inden for brugerstyring er mønstret bl.a. kendt fra eIDAS-føderationen, der ha
 
 Mønstret kendes også på nationalt niveau, når eksempelvis en kommunal bruger via den kommunale ContextHandler tilgår en national sundhedstjeneste, der er udstillet gennem sundhedsområdets broker (SEB). Her etableres forbindelsen således mellem brokere fra to forskellige domæner.
 
-![Figur13_Moenster_5_Interføderation_mellem_domæner.svg](assts/Figur13_Moenster_5_Interføderation_mellem_domæner.svg)
+![Figur13_Moenster_5_Interføderation_mellem_domæner.svg](assets/Figur13_Moenster_5_Interføderation_mellem_domæner.svg)
 
 Figur 13: Mønster 5 - Interføderation mellem domæner 
 

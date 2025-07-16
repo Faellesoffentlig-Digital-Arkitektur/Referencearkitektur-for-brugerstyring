@@ -169,7 +169,7 @@ Ved siden af _forretningstjenester_ findes _tillidstjenester_, der udfører betr
 
 I en digital sammenhæng defineres _brugere_ som den rolle, en _entitet_ optræder i, når den tilgår en _tjeneste_ eller et system. Rollen som _bruger_ binder entiteter til digitale identiteter.
 
-![Figur 2.gif](C:\Users\B339605\Documents\GitHub\Referencearkitektur-for-brugerstyring\assets\Figur%202.gif)
+![Figur2_Entitet_identitet_og_identifikationsmiddel.svg](assets/Figur2_Entitet_identitet_og_identifikationsmiddel.svg)
 
 Figur 2: Entitet, identitet og identifikationsmiddel 
 
@@ -187,7 +187,7 @@ Det er vigtigt at være opmærksom på dynamikken og fleksibiliteten i ovenståe
 
 I forbindelse med brugerstyring kan _brugere_ være personer, herunder borgere, erhvervsbrugere og medarbejdere eller _organisationer_ med rettigheder og pligter, og mulighed for at delegere rettigheder. Det kan i praksis være relevant at skelne mellem forskellige typer af brugere i en konkret kontekst. Dette kan dog ofte afhjælpes ved at beskrive brugertypen i et attributsæt. Brugere kan også være _apparater_ eller _applikationer_, der ikke i sig selv har juridiske rettigheder eller pligter, men som kan arve rettigheder via delegation og dermed agere på vegne af personer eller organisationer.
 
-![Figur 3.gif](C:\Users\B339605\Documents\GitHub\Referencearkitektur-for-brugerstyring\assets\Figur%203.gif)
+![Figur3_Typer_af_brugere.svg](assets/Figur3_Typer_af_brugere.svg)
 
 Figur 3: Typer af brugere 
 
@@ -209,7 +209,7 @@ Et fællestræk ved apparater og applikationer er, at de skal konfigureres med e
 
 I arkitekturen benyttes termen _adgangsbilletter_ som en abstraktion for en samling af _attributter_ vedr. en bestemt bruger, der benyttes i _adgangskontrollen_ for en given _tjeneste_. Attributterne kan beskrive både _digital identitet_, rettigheder og andre oplysninger om brugeren.
 
-![Figur 4.gif](C:\Users\B339605\Documents\GitHub\Referencearkitektur-for-brugerstyring\assets\Figur%204.gif)
+![Figur4_Begrebsoverblik.svg](assets/Figur4_Begrebsoverblik.svg)
 
 Figur 4: Begrebsoverblik
 
@@ -550,7 +550,7 @@ Brugerstyring dækker opgaver og funktioner i forbindelse med administration og 
 
 Figuren herunder viser de væsentligste elementer i brugerstyringsdomænet (markeret med rød skrift) sammen med konteksten (blå og grå skrift).
 
-![Figur 5.gif](C:\Users\B339605\Documents\GitHub\Referencearkitektur-for-brugerstyring\assets\Figur%205.gif)
+![Figur5_Oversigt_over_brugerstyringsdomaenet.svg](assets/Figur5_Oversigt_over_brugerstyringsdomaenet.svg)
 
 Figur 5: Oversigt over brugerstyringsdomænet 
 
@@ -564,7 +564,7 @@ Et helt centralt tema i denne referencearkitektur er, at forretningstjenester og
 
 Nedenstående figur viser et funktionelt overblik med fokus på samarbejdet mellem udbydere af tillidstjenester og forretningstjenester.
 
-![Figur 6.jpg](C:\Users\B339605\Documents\GitHub\Referencearkitektur-for-brugerstyring\assets\Figur%206.jpg)
+![Figur6_Samarbejde_mellem_tillidstjenester_og_forretningstjenester.svg](assets/Figur6_Samarbejde_mellem_tillidstjenester_og_forretningstjenester.svg)
 
 Figur 6: Samarbejde mellem tillidstjenester og forretningstjenester 
 
@@ -592,7 +592,7 @@ I denne referencearkitektur anvendes betegnelsen 'tillidstjeneste' i bred forsta
 
 De forskellige typer af tillidstjenester er illustreret på nedenstående figur:
 
-![Figur 7.jpg](C:\Users\B339605\Documents\GitHub\Referencearkitektur-for-brugerstyring\assets\Figur%207.jpg)
+![Figur7_Oversigt_over_de_forskellige_typer_af_tillidstjenester.svg](assets/Figur7_Oversigt_over_de_forskellige_typer_af_tillidstjenester.svg)
 
 Figur 7: Oversigt over de forskellige typer af tillidstjenester
 
@@ -665,7 +665,7 @@ Tjenesteudbydere skal udarbejde en adgangspolitik for deres forretningstjenester
 
 For at sikre overensstemmelse mellem adgangspolitik og den efterfølgende adgangskontrol, som håndhæver politikken, kan adgangspolitikken med fordel udtrykkes i termer af attributter, der er tilgængelige via attributregistreringen. Dette er fx særligt relevant i token-baserede realiseringer, hvor adgang opnås på baggrund af attributter registreret i et security token. Jo mere standardiserede adgangspolitikker er på tværs af tjenester, jo lettere er det for brugere og brugerorganisationer at administrere i overensstemmelse med adgangspolitikkerne. Fællesoffentligt er visse attributter standardiseret (fx i OIOSAML profilerne \[[18](/node/1098#bilag-1-kilder-og-baggrundsmateriale)\]), ligesom nogle domæner har standardiseret en række attributter (dette gælder fx på sundhedsområdet).
 
-![Figur 8.gif](C:\Users\B339605\Documents\GitHub\Referencearkitektur-for-brugerstyring\assets\Figur%208.gif)
+![Figur8_Adgangsrettigheder_Samspil_mellem_bruger_og_tjenesteudbyder.svg](assets/Figur8_Adgangsrettigheder_Samspil_mellem_bruger_og_tjenesteudbyder.svg)
 
 Figur 8: Adgangsrettigheder – Samspil mellem bruger og tjenesteudbyder 
 
@@ -736,7 +736,7 @@ Dette mønster er karakteriseret ved en forretningstjeneste med sin egen applika
 
 I dette mønster håndterer forretningstjenesten de fleste funktioner i brugerstyring selv, herunder udstedelse af identifikationsmidler, autentifikation, vedligehold af attributter og adgangskontrol. Tjenesteudbyder og brugerorganisation er med andre ord samme organisation, men det kan være forskellige organisatoriske enheder, som er ansvarlige for hhv. at forvalte applikationen og administrere brugerne. Tilliden mellem disse følger som oftest af, at der er en fælles ledelse og derfor ikke behov for tillid til eksterne parter.
 
-![Figur 9.jpg](C:\Users\B339605\Documents\GitHub\Referencearkitektur-for-brugerstyring\assets\Figur%209.jpg)
+![Figur9_Moenster_1_Forretningstjeneste_med_egne_autentifikationstjenester.svg](assets/Figur9_Moenster_1_Forretningstjeneste_med_egne_autentifikationstjenester.svg)
 
 Figur 9: Mønster 1 -Forretningstjeneste med egne autentifikationstjenester 
 
@@ -753,7 +753,7 @@ På baggrund af ovenstående kan mønstret ikke anbefales. 
 
 Dette mønster er karakteriseret ved, at en brugerorganisation har etableret et fælles directory (brugerkatalog og autentifikationstjeneste), som benyttes af flere interne applikationer – evt. med synkronisering mellem brugerkataloget og legacy applikationer (mønster 1), der ikke kan håndtere brugerstyring, via et IdM-system. Der er stadig tale om, at tjenesteudbyder og brugerorganisation er inden for samme organisation.
 
-![Figur 10.jpg](C:\Users\B339605\Documents\GitHub\Referencearkitektur-for-brugerstyring\assets\Figur%2010.jpg)
+![Figur10_Moenster_2_Intern_de_lt_autentifikationstjeneste.svg](assets/Figur10_Moenster_2_Intern_de_lt_autentifikationstjeneste.svg)
 
 Figur 10: Mønster 2 - Intern de lt autentifikationstjeneste 
 
@@ -778,7 +778,7 @@ Dette mønster er det første, hvor bruger og tjenesteudbyder kan tilhøre forsk
 
 Mønstret er kendt fra NemLog-in, der som fællesoffentlig log-in tjeneste kan autentificere danske borgere og virksomheder til (stort set) alle offentlige tjenester med behov for sikker autentifikation – herunder alle tjenester på Borger.dk og Virk.dk. Som følge heraf betegnes dette også som ’den fællesoffentlige føderation’, og grundlaget for tillid i denne er National Standard for Identiteters Sikringsniveauer (NSIS) \[[17](/node/1098#bilag-1-kilder-og-baggrundsmateriale)\] og i en vis udstrækning OCES certifikatpolitikkerne \[[20](/node/1098#bilag-1-kilder-og-baggrundsmateriale)\], der med krav til sikkerhed, revision og andet sætter et veldefineret kvalitetsniveau.
 
-![Figur 11.jpg](C:\Users\B339605\Documents\GitHub\Referencearkitektur-for-brugerstyring\assets\Figur%2011.jpg)
+![Figur11_Moenster_3_Central_autentifikationstjeneste.svg](assets/Figur11_Moenster_3_Central_autentifikationstjeneste.svg)
 
 Figur 11: Mønster 3 -Central autentifikationstjeneste 
 
@@ -794,7 +794,7 @@ Et andet velkendt mønster (særligt for medarbejderidentiteter) optræder, når
 
 Mønstret anvendes bl.a. i den fælleskommunale infrastruktur etableret af KOMBIT, hvor en såkaldt ContextHandler agerer som central broker/hub, og hvor hver kommune udstiller en autentifikationstjeneste (kaldet IdP) for egne medarbejdere. Mønstret er ligeledes kendt fra WAYF-føderationen på forsknings- og uddannelsesområdet, hvor den enkelte institution er IdP for egne medarbejdere/studerende.
 
-![Figur 12.jpg](C:\Users\B339605\Documents\GitHub\Referencearkitektur-for-brugerstyring\assets\Figur%2012.jpg)
+![Figur12_Moenster_4_Faelles_broker_for_decentrale_autentifikationstjenester.svg](assets/Figur12_Moenster_4_Faelles_broker_for_decentrale_autentifikationstjenester.svg)
 
 Figur 12: Mønster 4 - Fælles broker for decentrale autentifikationstjenester
 
@@ -820,7 +820,7 @@ Inden for brugerstyring er mønstret bl.a. kendt fra eIDAS-føderationen, der ha
 
 Mønstret kendes også på nationalt niveau, når eksempelvis en kommunal bruger via den kommunale ContextHandler tilgår en national sundhedstjeneste, der er udstillet gennem sundhedsområdets broker (SEB). Her etableres forbindelsen således mellem brokere fra to forskellige domæner.
 
-![Figur 13.jpg](C:\Users\B339605\Documents\GitHub\Referencearkitektur-for-brugerstyring\assets\Figur%2013.jpg)
+![Figur13_Moenster_5_Interføderation_mellem_domæner.svg](assts/Figur13_Moenster_5_Interføderation_mellem_domæner.svg)
 
 Figur 13: Mønster 5 - Interføderation mellem domæner 
 
@@ -866,7 +866,7 @@ Derudover kan der i takt med fremkomsten af nye autentifikationstjenester blive 
 
 Endelig vurderes det, at der kan blive behov for yderligere vejledning og standarder for kommunikation mellem føderationer, når erfaringerne med interføderation udbredes et eksempel kunne være best practice for billetomveksling. Der er allerede arbejdet i EU regi (STORK \[[33](/node/1098#bilag-1-kilder-og-baggrundsmateriale)\] og eIDAS \[[7](/node/1098#bilag-1-kilder-og-baggrundsmateriale)\]) med interføderation baseret på SAML, og i dansk regi er der planlagt piloter mellem kommunerne (KOMBIT’s adgangsstyring \[[34](/node/1098#bilag-1-kilder-og-baggrundsmateriale)\]) og Sundhedsvæsenets Elektroniske Brugerstyring (SEB) \[[35](/node/1098#bilag-1-kilder-og-baggrundsmateriale)\].
 
-![Figur 14.gif](C:\Users\B339605\Documents\GitHub\Referencearkitektur-for-brugerstyring\assets\Figur%2014.gif)
+![Figur14_Kommunikation_mellem_foederationer.svg](assets/Figur14_Kommunikation_mellem_foederationer.svg)
 
 Figur 14: Kommunikation mellem føderationer
 
@@ -939,11 +939,11 @@ En forretningstjeneste kan få adgang til attesterede oplysninger om en bruger f
 
 De to tilgange kan sagtens kombineres.
 
-![Figur 15.jpg](C:\Users\B339605\Documents\GitHub\Referencearkitektur-for-brugerstyring\assets\Figur%2015.jpg)
+![Figur15_Attestation_via_pull.svg](assets/Figur15_Attestation_via_pull.svg)
 
 Figur 15: Attestation via pull 
 
-![Figur 16.jpg](C:\Users\B339605\Documents\GitHub\Referencearkitektur-for-brugerstyring\assets\Figur%2016.jpg)
+![Figur16_Attestation_via_push.svg](assets/Figur16_Attestation_via_push.svg)
 
 Figur 16: Attestation via push 
 
@@ -1015,7 +1015,7 @@ Ovenstående principper anvendes i den danske ’smittestop’ app, som anvendes
 
 Løsningen er illustreret på nedenstående figur:
 
-![Figur 17.jpg](C:\Users\B339605\Documents\GitHub\Referencearkitektur-for-brugerstyring\assets\Figur%2017.jpg)
+![Figur17_Pseudonym_smitteautorisering_i_smittestop_app.svg](assets/Figur17_Pseudonym_smitteautorisering_i_smittestop_app.svg)
 
 Figur 17: Pseudonym smitteautorisering i smittestop app
 
@@ -1046,7 +1046,7 @@ I en føderation mellem en række sektorer, der hver har deres sikkerhedsdomæne
 
 En ofte forekommende problematik er, at en forretningstjeneste har brug for at kalde videre til andre forretningstjenester for at servicere en bruger. Det kan fx være, at en portal som borger.dk, der tilgås af slutbrugere, har brug for opslag i en bagvedliggende service, der kan levere data om en bestemt borger, fx Digital Post. Nedenstående figur illustrerer et simpelt eksempel, hvor der kun er to forretningstjenester i spil:
 
-![Figur 19.jpg](C:\Users\B339605\Documents\GitHub\Referencearkitektur-for-brugerstyring\assets\Figur%2019.jpg)
+![Figur19_Kald_med_forretningstjenester.svg](assets/Figur19_Kald_med_forretningstjenester.svg)
 
 Figur 19: Kald mellem forretningstjenester 
 
@@ -1080,7 +1080,7 @@ I grunddataprogrammet har man valgt en fælles, tværgående sikkerhedsmodel, ba
 
 I dette afsnit præsenteres et simpelt eksempel på, hvordan et identitetsbaseret kald kan realiseres med OIO IDWS specifikationerne \[[22](/node/1098#bilag-1-kilder-og-baggrundsmateriale)\] og deres implementering i NemLog-in. Eksemplet tager udgangspunkt i, at brugeren logger på en webportal (tjeneste A) via SAML IdP, der agerer autentifikationstjeneste. Når brugeren autentificerer sig overfor IdP'en udstedes en adgangsbillet (T) til portalen, som har indlejret et såkaldt 'bootstrap token' (benævnt b på figuren nedenfor). Dette bootstrap token kan portalen omveksle hos en Security Token Service til et nyt token (T'), der kan anvendes i kaldet til den næste forretningstjeneste. Scenariet er illustreret på nedenstående figur:
 
-![Figur 20.jpg](C:\Users\B339605\Documents\GitHub\Referencearkitektur-for-brugerstyring\assets\Figur%2020.jpg)
+![Figur20_Identitetsbaseret_kald_via_tokenveksling.svg](assets/Figur20_Identitetsbaseret_kald_via_tokenveksling.svg)
 
 Figur 20: Identitetsbaseret kald via tokenveksling 
 

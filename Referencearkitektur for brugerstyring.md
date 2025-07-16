@@ -149,7 +149,7 @@ Endelig er denne version af referencearkitekturen opdateret jfr. aktuelle standa
 
 Referencearkitekturen beskriver administrationen af og kontrollen med brugeres adgang til digitale tjenester. Tjenester udbydes af private og offentlige organisationer, og anvendes af borgere eller andre organisationer og deres ansatte.
 
-![Figur 1.gif](C:\Users\B339605\Documents\GitHub\Referencearkitektur-for-brugerstyring\assets\Figur%201.gif)
+![Figur1_Aspekter_af_brugerstyring.svg](assets/Figur1_Aspekter_af_brugerstyring.svg)
 
 Figur 1: Aspekter af brugerstyring
 

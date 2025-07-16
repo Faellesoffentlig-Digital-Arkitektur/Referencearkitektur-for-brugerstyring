@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="190mm"
+   height="150mm"
+   id="svg6368"
+   version="1.1"
+   inkscape:version="1.4.2 (ebf0e94, 2025-05-08)"
+   sodipodi:docname="Figur 12 - Moenster 4 - Faelles broker for decentrale autentifikationstjenester.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs6370">
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4104"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3327"
+       is_visible="true" />
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker6390"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6392"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3323"
+       is_visible="true" />
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker6395"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6397"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3319"
+       is_visible="true" />
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-3"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4104-6"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3327-4"
+       is_visible="true" />
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker6750"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6752"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3323-4"
+       is_visible="true" />
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker6755"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6757"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3319-4"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3260"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3079"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3083"
+       is_visible="true" />
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-0"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4104-4"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5851"
+       is_visible="true" />
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker7023"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path7025"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect5843"
+       effect="spiro" />
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker7028"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path7030"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4951"
+       is_visible="true" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:document-units="mm"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.61399264"
+     inkscape:cx="242.67392"
+     inkscape:cy="380.29772"
+     inkscape:current-layer="layer1"
+     id="namedview6372"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="974"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <metadata
+     id="metadata6374">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffffff;stroke-width:0.944882;stroke-linecap:round;paint-order:markers stroke fill"
+       id="rect1"
+       width="726.39307"
+       height="579.81152"
+       x="-3.2573681"
+       y="-4.8860521" />
+    <rect
+       style="fill:none;stroke:#4d4d4d;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:4.49916505, 4.49916505;stroke-dashoffset:0"
+       id="rect4947-0"
+       width="321.18387"
+       height="151.3447"
+       x="19.614252"
+       y="265.01959"
+       ry="4.1074367" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="M 217.05918,311.90058 388.65554,123.0294"
+       id="path4949"
+       inkscape:path-effect="#path-effect4951"
+       inkscape:original-d="M 217.05918,311.90058 388.65554,123.0294"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       inkscape:original-d="M 442.78325,124.18105 614.37963,313.05223"
+       inkscape:path-effect="#path-effect5843"
+       id="path5841"
+       d="M 442.78325,124.18105 614.37963,313.05223"
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Paralucent Medium';-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="113.56823"
+       y="224.22044"
+       id="text6292-0"><tspan
+         sodipodi:role="line"
+         id="tspan6294-4"
+         x="113.56823"
+         y="224.22044"
+         style="font-style:oblique;font-size:22px;line-height:1.25;-inkscape-font-specification:'Paralucent Medium, Oblique';fill:#4d4d4d;fill-opacity:1">trust boundary</tspan></text>
+    <rect
+       ry="5.3695288"
+       y="313.68378"
+       x="89.352531"
+       height="49.327953"
+       width="202.88028"
+       id="rect6296-3"
+       style="fill:none;stroke:#4d4d4d;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <rect
+       style="fill:none;stroke:#4d4d4d;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect6298"
+       width="202.88028"
+       height="49.327953"
+       x="310.47003"
+       y="69.533188"
+       ry="5.3695288" />
+    <text
+       id="text4176-9"
+       y="343.40582"
+       x="106.46947"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Paralucent Medium';-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#577ed9;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-weight:bold;font-size:20px;line-height:1.25;-inkscape-font-specification:'Paralucent Medium, Bold';text-align:start;text-anchor:start;fill:#577ed9;fill-opacity:1"
+         id="tspan4178-77"
+         y="343.40582"
+         x="106.46947"
+         sodipodi:role="line">forretningstjeneste</tspan></text>
+    <text
+       id="text6352"
+       y="101.2805"
+       x="412.01617"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Paralucent Medium';-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#99002a;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-weight:bold;font-size:20px;line-height:1.25;-inkscape-font-specification:'Paralucent Medium, Bold';fill:#99002a;fill-opacity:1"
+         y="101.2805"
+         x="412.01617"
+         id="tspan6354"
+         sodipodi:role="line">autentifikation</tspan></text>
+    <text
+       transform="rotate(90)"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Paralucent Medium';-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#99002a;fill-opacity:1;stroke:none"
+       x="96.270035"
+       y="-262.49738"
+       id="text6364"><tspan
+         sodipodi:role="line"
+         id="tspan6366"
+         x="96.270035"
+         y="-262.49738"
+         style="font-size:20px;line-height:1.25;fill:#99002a;fill-opacity:1">tillidstjeneste</tspan></text>
+    <text
+       id="text6731-5"
+       y="-56.351433"
+       x="338.66827"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Paralucent Medium';-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#577ed9;fill-opacity:1;stroke:none"
+       xml:space="preserve"
+       transform="rotate(90)"><tspan
+         style="font-size:20px;line-height:1.25;fill:#577ed9;fill-opacity:1"
+         y="-56.351433"
+         x="338.66827"
+         id="tspan6733-7"
+         sodipodi:role="line">tjeneste-</tspan><tspan
+         style="font-size:20px;line-height:1.25;fill:#577ed9;fill-opacity:1"
+         y="-27.530167"
+         x="338.66827"
+         sodipodi:role="line"
+         id="tspan6735-6">udbyder</tspan></text>
+    <rect
+       ry="5.3695288"
+       y="311.38043"
+       x="457.88165"
+       height="49.327953"
+       width="202.88028"
+       id="rect7162"
+       style="fill:none;stroke:#4d4d4d;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <text
+       id="text7168"
+       y="-409.909"
+       x="338.11731"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Paralucent Medium';-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#99002a;fill-opacity:1;stroke:none"
+       xml:space="preserve"
+       transform="rotate(90)"><tspan
+         style="font-size:20px;line-height:1.25;fill:#99002a;fill-opacity:1"
+         y="-409.909"
+         x="338.11731"
+         id="tspan7170"
+         sodipodi:role="line">tillidstjeneste</tspan></text>
+    <rect
+       ry="4.1074367"
+       y="265.01959"
+       x="390.44672"
+       height="151.3447"
+       width="321.18387"
+       id="rect7172"
+       style="fill:none;stroke:#4d4d4d;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:4.49916505, 4.49916505;stroke-dashoffset:0" />
+    <rect
+       style="fill:none;stroke:#4d4d4d;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:4.49916505, 4.49916505;stroke-dashoffset:0"
+       id="rect7174"
+       width="321.18387"
+       height="151.3447"
+       x="233.82184"
+       y="18.56572"
+       ry="4.1074367" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Paralucent Medium';-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#99002a;fill-opacity:1;stroke:none"
+       x="559.70123"
+       y="343.12775"
+       id="text7176"><tspan
+         sodipodi:role="line"
+         id="tspan7178"
+         x="559.70123"
+         y="343.12775"
+         style="font-weight:bold;font-size:20px;line-height:1.25;-inkscape-font-specification:'Paralucent Medium, Bold';fill:#99002a;fill-opacity:1">autentifikation</tspan></text>
+  </g>
+</svg>

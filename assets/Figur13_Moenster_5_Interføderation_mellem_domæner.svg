@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="260mm"
+   height="120mm"
+   id="svg7180"
+   version="1.1"
+   inkscape:version="1.4.2 (ebf0e94, 2025-05-08)"
+   sodipodi:docname="Figur 13 - Moenster 5 - Interføderation mellem domæner.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs7182">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect8476"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect8288"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect7580"
+       is_visible="true" />
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4104"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect5843"
+       effect="spiro" />
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker7450"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path7452"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4951"
+       is_visible="true" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:document-units="mm"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.61399264"
+     inkscape:cx="563.52467"
+     inkscape:cy="521.99323"
+     inkscape:current-layer="layer1"
+     id="namedview7184"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="974"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <metadata
+     id="metadata7186">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffffff;stroke-width:0.944882;stroke-linecap:round;paint-order:markers stroke fill"
+       id="rect1"
+       width="988.61121"
+       height="460.91757"
+       x="-1.628684"
+       y="-3.2573681" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Paralucent Medium';-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="88.452141"
+       y="256.68671"
+       id="text6292"><tspan
+         sodipodi:role="line"
+         id="tspan6294"
+         x="88.452141"
+         y="256.68671"
+         style="font-style:oblique;font-size:22px;line-height:1.25;-inkscape-font-specification:'Paralucent Medium, Oblique';fill:#4d4d4d;fill-opacity:1">trust boundary</tspan></text>
+    <rect
+       style="fill:none;stroke:#4d4d4d;stroke-width:2.15020466;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect6298"
+       width="218.11705"
+       height="53.032597"
+       x="227.1438"
+       y="107.15784"
+       ry="5.7727928" />
+    <text
+       id="text6352"
+       y="141.28946"
+       x="336.61026"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Paralucent Medium';-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#99002a;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-weight:bold;font-size:21.502px;line-height:1.25;-inkscape-font-specification:'Paralucent Medium, Bold';fill:#99002a;fill-opacity:1"
+         y="141.28946"
+         x="336.61026"
+         id="tspan6354"
+         sodipodi:role="line">autentifikation</tspan></text>
+    <text
+       transform="rotate(90)"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Paralucent Medium';-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#99002a;fill-opacity:1;stroke:none"
+       x="135.90268"
+       y="-175.56831"
+       id="text6364"><tspan
+         sodipodi:role="line"
+         id="tspan6366"
+         x="135.90268"
+         y="-175.56831"
+         style="font-size:21.502px;line-height:1.25;fill:#99002a;fill-opacity:1">tillidstjeneste</tspan></text>
+    <g
+       id="g7553"
+       transform="matrix(1.0997769,0,0,1.0997769,1002.8782,123.88843)">
+      <rect
+         ry="4.1074367"
+         y="144.4198"
+         x="-769.81665"
+         height="151.3447"
+         width="321.18387"
+         id="rect4947-0"
+         style="fill:none;stroke:#4d4d4d;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:4.49916505, 4.49916505;stroke-dashoffset:0" />
+      <rect
+         style="fill:none;stroke:#4d4d4d;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect6296-3"
+         width="202.88028"
+         height="49.327953"
+         x="-700.07837"
+         y="193.08397"
+         ry="5.3695288" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Paralucent Medium';-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#577ed9;fill-opacity:1;stroke:none"
+         x="-687.82471"
+         y="222.806"
+         id="text4176-9"><tspan
+           sodipodi:role="line"
+           x="-687.82471"
+           y="222.806"
+           id="tspan4178-77"
+           style="font-weight:bold;font-size:20px;line-height:1.25;-inkscape-font-specification:'Paralucent Medium, Bold';text-align:start;text-anchor:start;fill:#577ed9;fill-opacity:1">forretningstjeneste</tspan></text>
+      <text
+         transform="rotate(90)"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Paralucent Medium';-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#577ed9;fill-opacity:1;stroke:none"
+         x="218.06847"
+         y="733.07947"
+         id="text6731-5"><tspan
+           sodipodi:role="line"
+           id="tspan6733-7"
+           x="218.06847"
+           y="733.07947"
+           style="font-size:20px;line-height:1.25;fill:#577ed9;fill-opacity:1">tjeneste-</tspan><tspan
+           id="tspan6735-6"
+           sodipodi:role="line"
+           x="218.06847"
+           y="761.90076"
+           style="font-size:20px;line-height:1.25;fill:#577ed9;fill-opacity:1">udbyder</tspan></text>
+    </g>
+    <rect
+       style="fill:none;stroke:#4d4d4d;stroke-width:2.15020466;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:4.83706257, 4.83706257;stroke-dashoffset:0"
+       id="rect7174"
+       width="345.30551"
+       height="162.71103"
+       x="156.22696"
+       y="52.362602"
+       ry="4.4159145" />
+    <rect
+       ry="5.7727928"
+       y="109.46114"
+       x="710.83826"
+       height="53.032597"
+       width="218.11705"
+       id="rect7541"
+       style="fill:none;stroke:#4d4d4d;stroke-width:2.15020466;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Paralucent Medium';-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#99002a;fill-opacity:1;stroke:none"
+       x="820.30475"
+       y="143.59276"
+       id="text7543"><tspan
+         sodipodi:role="line"
+         id="tspan7545"
+         x="820.30475"
+         y="143.59276"
+         style="font-weight:bold;font-size:21.502px;line-height:1.25;-inkscape-font-specification:'Paralucent Medium, Bold';fill:#99002a;fill-opacity:1">autentifikation</tspan></text>
+    <text
+       id="text7547"
+       y="-659.26276"
+       x="138.20599"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Paralucent Medium';-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#99002a;fill-opacity:1;stroke:none"
+       xml:space="preserve"
+       transform="rotate(90)"><tspan
+         style="font-size:21.502px;line-height:1.25;fill:#99002a;fill-opacity:1"
+         y="-659.26276"
+         x="138.20599"
+         id="tspan7549"
+         sodipodi:role="line">tillidstjeneste</tspan></text>
+    <rect
+       ry="4.4159145"
+       y="54.665909"
+       x="628.43365"
+       height="162.71103"
+       width="345.30551"
+       id="rect7551"
+       style="fill:none;stroke:#4d4d4d;stroke-width:2.15020466;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:4.83706257, 4.83706257;stroke-dashoffset:0" />
+    <g
+       transform="matrix(1.0750116,0,0,1.0997769,1457.7933,123.88843)"
+       id="g7562">
+      <rect
+         style="fill:none;stroke:#4d4d4d;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:4.49916505, 4.49916505;stroke-dashoffset:0"
+         id="rect7564"
+         width="321.18387"
+         height="151.3447"
+         x="-769.81665"
+         y="144.4198"
+         ry="4.1074367" />
+      <rect
+         ry="5.3695288"
+         y="193.08397"
+         x="-700.07837"
+         height="49.327953"
+         width="202.88028"
+         id="rect7566"
+         style="fill:none;stroke:#4d4d4d;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         id="text7568"
+         y="222.806"
+         x="-687.82471"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Paralucent Medium';-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#577ed9;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           style="font-weight:bold;font-size:20px;line-height:1.25;-inkscape-font-specification:'Paralucent Medium, Bold';text-align:start;text-anchor:start;fill:#577ed9;fill-opacity:1"
+           id="tspan7570"
+           y="222.806"
+           x="-687.82471"
+           sodipodi:role="line">forretningstjeneste</tspan></text>
+      <text
+         id="text7572"
+         y="734.22491"
+         x="218.06847"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Paralucent Medium';-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#577ed9;fill-opacity:1;stroke:none"
+         xml:space="preserve"
+         transform="rotate(90)"><tspan
+           style="font-size:20px;line-height:1.25;fill:#577ed9;fill-opacity:1"
+           y="734.22491"
+           x="218.06847"
+           sodipodi:role="line"
+           id="tspan7576">organisation</tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.99921262;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#marker7450)"
+       d="m 352.47377,334.10583 -2.3033,-158.92818"
+       id="path7578"
+       inkscape:path-effect="#path-effect7580"
+       inkscape:original-d="m 352.47377,334.10583 -2.3033,-158.92818"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker7450)"
+       d="m 446.90936,133.71812 257.97039,0"
+       id="path8286"
+       inkscape:path-effect="#path-effect8288"
+       inkscape:original-d="m 446.90936,133.71812 257.97039,0"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker7450)"
+       d="m 836.16825,163.66111 0,163.5348"
+       id="path8474"
+       inkscape:path-effect="#path-effect8476"
+       inkscape:original-d="m 836.16825,163.66111 0,163.5348"
+       inkscape:connector-curvature="0" />
+    <text
+       id="text8662"
+       y="210.62056"
+       x="576.87634"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Paralucent Medium';-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-style:oblique;font-size:22px;line-height:1.25;-inkscape-font-specification:'Paralucent Medium, Oblique';fill:#4d4d4d;fill-opacity:1"
+         y="210.62056"
+         x="576.87634"
+         id="tspan8664"
+         sodipodi:role="line">trust </tspan><tspan
+         style="font-style:oblique;font-size:22px;line-height:1.25;-inkscape-font-specification:'Paralucent Medium, Oblique';fill:#4d4d4d;fill-opacity:1"
+         y="238.94183"
+         x="576.87634"
+         sodipodi:role="line"
+         id="tspan8666">boundary</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Paralucent Medium';-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="328.11926"
+       y="35.569225"
+       id="text8668"><tspan
+         id="tspan8672"
+         sodipodi:role="line"
+         x="328.11926"
+         y="35.569225"
+         style="font-style:oblique;font-size:22px;line-height:1.25;-inkscape-font-specification:'Paralucent Medium, Oblique';fill:#4d4d4d;fill-opacity:1">Broker domæne A</tspan></text>
+    <text
+       id="text8676"
+       y="40.175838"
+       x="799.85876"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Paralucent Medium';-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-style:oblique;font-size:22px;line-height:1.25;-inkscape-font-specification:'Paralucent Medium, Oblique';fill:#4d4d4d;fill-opacity:1"
+         y="40.175838"
+         x="799.85876"
+         sodipodi:role="line"
+         id="tspan8678">Broker domæne B</tspan></text>
+  </g>
+</svg>

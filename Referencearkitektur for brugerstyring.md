@@ -1027,7 +1027,7 @@ I et sammenhængende, skalérbart og sikkert økosystem af tillidstjenester og f
 
 Nedenstående figur 16 illustrerer den kæde af tillid, der kan optræde mellem tillidstjenester og forretningstjenester i et komplekst scenarie. Denne kæde skal være identificeret og beskrevet i en føderation, hvor der kan være en række tillidstjenester involveret i føderationen. Man skal her være eksplicit om, hvilket sikringsniveau de enkelte tjenester opererer på, for det vil være det laveste sikringsniveau i hele kæden, der er bestemmende for det samlede sikringsniveau. For enkelhed i illustrationen er der her tegnet en føderation med kun én af hver tillidstjeneste repræsenteret.
 
-![Figur18_Kæde_af_tillid_i_et_tjenestekald.gif](assets/Figur18_Kæde_af_tillid_i_et_tjenestekald.gif)
+![Figur18_Kæde_af_tillid_i_et_tjenestekald.svg](assets/Figur18_Kæde_af_tillid_i_et_tjenestekald.svg)
 
 Figur 18: Kæde af tillid i et tjenestekald 
 

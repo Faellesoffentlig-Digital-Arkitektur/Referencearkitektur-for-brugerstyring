@@ -1115,7 +1115,7 @@ Adgangskontrollen er tjenesteudbyders ansvar, men tekniske funktioner kan levere
 
 Nedenstående figur fra Wikipedia \[[44](/node/1098#bilag-1-kilder-og-baggrundsmateriale)\] viser samspillet mellem de forskellige komponenter i XACML:
 
-![Figur21_XACML_standardens_arkitektur.gif](assets/Figur21_XACML_standardens_arkitektur.gif)
+![Figur21_XACML_standardens_arkitektur.svg](assets/Figur21_XACML_standardens_arkitektur.svg)
 
 Figur 21: XACML standardens arkitektur
 

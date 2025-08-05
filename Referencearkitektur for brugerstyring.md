@@ -1173,7 +1173,7 @@ Ovenstående kan generaliseres til alle typer applikationer, der via føderation
 
 Løsningen er illustreret på følgende figur:
 
-![Figur22_Model_til_brug_for_brugerstyringstjenester_i_processer.jpg](assets/Figur22_Model_til_brug_for_brugerstyringstjenester_i_processer.jpg)
+![Figur22_Model_til_brug_for_brugerstyringstjenester_i_processer.jpg](assets/Figur22_model_til_brugerstyringstjenester_i_processer.svg)
 
 Figur 22: Model til brug for brugerstyringstjenester i processer 
 

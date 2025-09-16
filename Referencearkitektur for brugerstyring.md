@@ -29,12 +29,12 @@ The main activities in access control are:
 
 The reference architecture of identity and access management establishes a number of principles that support the overall visions and goals of userfriendly, coherent and secure digitization. The principles of this reference architecture elaborate on the architecture principles of the White Paper on a common public sector digital architecture \[[2](#bilag-1-kilder-og-baggrundsmateriale)\] with regard to identity and access management:
 
-1. [Users experience a relevant and coherent identity and access management.](#princip-1-brugerne-oplever-en-relevant-og-sammenh-ngende-adgangsstyring)
-2. [Access control solutions respect the privacy of users.](#princip-2-brugerstyringsl-sninger-respekterer-brugernes-privatliv)
-3. [The service provider is responsible for enforcing the access policy.](#princip-3-tjenesteudbyder-har-ansvaret-for-at-adgangspolitikken-h-ndh-ves)
-4. [Identity and access management is separate from business services.](#princip-4-brugerstyring-er-adskilt-fra-forretningstjenester)
+1. [Users experience a relevant and coherent identity and access management.](#Princip-1-Brugerne-oplever-en-relevant-og-sammenhængende-adgangsstyring)
+2. [Access control solutions respect the privacy of users.](#Princip-2-Brugerstyringsløsninger-respekterer-brugernes-privatliv)
+3. [The service provider is responsible for enforcing the access policy.](#Princip-3-Tjenesteudbyder-har-ansvaret-for-at-adgangspolitikken-håndhæves)
+4. [Identity and access management is separate from business services.](#Princip-4-brugerstyring-er-adskilt-fra-forretningstjeneste)
 5. [Identity and access management is achieved through loosely linked and standardized trust services.](#princip-5-Brugerstyring-realiseres-via-løst-koblede-og-standardiserede-komponenter)
-6. [Service providers participate in federations.](#princip-6-tjenesteudbydere-indg-r-i-f-derationer)
+6. [Service providers participate in federations.](#princip-6-Tjenesteudbydere-indgår-i-føderationer)
 
 Business needs and the mentioned principles point to an architecture, where identity and access management is handled separately from the business solutions. The separation means, that multiple business solutions can use the same solution for user management within or across organizations and domains. Furthermore, the business solutions do not have to handle the administration of users themselves. 
 
@@ -44,11 +44,11 @@ Therefor an identity and access management model based on security tokens has be
 
 The reference architecture describes five architectural patterns of increasing complexity starting with a scenario where all identity and access management functions belong to the same organization to a scenario with loosely linked ecosystems where many parties work together on identity and access management:
 
-1. [Business service with its own authetification service.](#mnster-1-forretningstjenester-med-egen-autentifika)
-2. [Shared, internal authentification service.](#mnster-2-delt-intern-autentifikationstjeneste)
-3. [Federation with central authentification service.](#mnster-3-fderation-med-central-autentifikationstje)
-4. [Shared broker for decentralized authentification services within a domain.](#mnster-4-flles-domnebroker-for-decentrale-autentif)
-5. [Interfederation across domains.](#mnster-5-interfderation-mellem-domner)
+1. [Business service with its own authetification service.](#Mønster-1-Forretningstjenester-med-egen-autentifikationstjeneste)
+2. [Shared, internal authentification service.](#Mønster-2-delt-internt-autentifikationstjeneste)
+3. [Federation with central authentification service.](#Mønster-3-Føderation-med-central-autentifikationstjeneste)
+4. [Shared broker for decentralized authentification services within a domain.](#Mønster-4-Fælles-domænebroker-for-decentrale-autentifikationstjenester)
+5. [Interfederation across domains.](#Mønster-5-Interføderation-mellem-domæner)
 
 The first two patterns are quite common, but have a number of challenges in terms of coherence, usability, scalability and security. Therefore, it is recommended not to use them but instead handle identity and access management using one of the three other patterns.
 
@@ -84,12 +84,12 @@ Hovedaktiviteterne i adgangskontrol er:
 
 Referencearkitekturen for brugerstyring fastlægger en række principper, der understøtter de overordnede visioner og mål for brugervenlig, sammenhængende og sikker digitalisering. Principperne i denne referencearkitektur uddyber arkitekturprincipperne fra Hvidbog om fællesoffentlig digital arkitektur \[[2](#bilag-1-kilder-og-baggrundsmateriale)\] mht. brugerstyring:
 
-1. [Brugerne oplever en relevant og sammenhængende adgangsstyring.](#princip-1-brugerne-oplever-en-relevant-og-sammenh-ngende-adgangsstyring)
-2. [Brugerstyringsløsninger respekterer brugernes privatliv.](#princip-2-brugerstyringsl-sninger-respekterer-brugernes-privatliv)
-3. [Tjenesteudbyder har ansvaret for at adgangspolitikken håndhæves.](#princip-3-tjenesteudbyder-har-ansvaret-for-at-adgangspolitikken-h-ndh-ves)
-4. [Brugerstyring er adskilt fra forretningstjenester.](#princip-4-brugerstyring-er-adskilt-fra-forretningstjenester)
-5. [Brugerstyring realiseres via løst koblede og standardiserede tillidstjenester.](#princip-5-brugerstyring-realiseres-via-l-st-koblede-og-standardiserede-komponenter)
-6. [Tjenesteudbydere indgår i føderationer.](#princip-6-tjenesteudbydere-indg-r-i-f-derationer)
+1. [Brugerne oplever en relevant og sammenhængende adgangsstyring.](#Princip-1-Brugerne-oplever-en-relevant-og-sammenhængende-adgangsstyring)
+2. [Brugerstyringsløsninger respekterer brugernes privatliv.](#Princip-2-Brugerstyringsløsninger-respekterer-brugernes-privatliv))
+3. [Tjenesteudbyder har ansvaret for at adgangspolitikken håndhæves.](#Princip-3-Tjenesteudbyder-har-ansvaret-for-at-adgangspolitikken-håndhæves)
+4. [Brugerstyring er adskilt fra forretningstjenester.](#Princip-4-brugerstyring-er-adskilt-fra-forretningstjeneste)
+5. [Brugerstyring realiseres via løst koblede og standardiserede tillidstjenester.](#princip-5-Brugerstyring-realiseres-via-løst-koblede-og-standardiserede-komponenter)
+6. [Tjenesteudbydere indgår i føderationer.](#princip-6-Tjenesteudbydere-indgår-i-føderationerr)
 
 Forretningsbehov og de nævnte principper peger på en arkitektur, hvor brugerstyring håndteres adskilt fra fagsystemer. Adskillelsen betyder, at flere fagsystemer kan anvende samme løsning til brugerhåndtering inden for eller på tværs af organisationer og domæner. Desuden skal fagsystemerne som udgangspunkt ikke selv håndtere administration af brugerne.
 
@@ -99,11 +99,11 @@ Der er derfor valgt en model for brugerstyring, der er baseret på adgangsbillet
 
 Referencearkitekturen beskriver 5 arkitekturmønstre i stigende kompleksitet startende med et scenarie, hvor alle funktioner vedrørende brugerstyring ligger i den samme organisation til et scenarie med løst-koblede økosystemer, hvor mange parter arbejder sammen om brugerstyring:
 
-1. [Forretningstjeneste med egen autentifikationstjeneste.](#mnster-1-forretningstjenester-med-egen-autentifika)
-2. [Delt, intern autentifikationstjeneste.](#mnster-2-delt-intern-autentifikationstjeneste)
-3. [Føderation med central autentifikationstjeneste.](#mnster-3-fderation-med-central-autentifikationstje)
-4. [Fælles domænebroker for decentrale autentifikationstjenester.](#mnster-4-flles-domnebroker-for-decentrale-autentif)
-5. [Interføderation mellem domæner.](#mnster-5-interfderation-mellem-domner)
+1. [Forretningstjeneste med egen autentifikationstjeneste.](#Mønster-1-Forretningstjenester-med-egen-autentifikationstjeneste)
+2. [Delt, intern autentifikationstjeneste.](#Mønster-2-delt-internt-autentifikationstjeneste)
+3. [Føderation med central autentifikationstjeneste.](#Mønster-3-Føderation-med-central-autentifikationstjeneste)
+4. [Fælles domænebroker for decentrale autentifikationstjenester.](#Mønster-4-Fælles-domænebroker-for-decentrale-autentifikationstjenester)
+5. [Interføderation mellem domæner.](#Mønster-5-Interføderation-mellem-domæner)
 
 De to første mønstre forekommer mange steder, men har en række udfordringer med hensyn til sammenhæng, brugervenlighed, skalerbarhed og sikkerhed. Derfor anbefales det, at man ikke anvender dem, men i stedet håndterer brugerstyring via de 3 øvrige mønstre.
 

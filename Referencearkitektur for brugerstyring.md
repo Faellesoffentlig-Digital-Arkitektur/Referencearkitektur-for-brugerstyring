@@ -33,7 +33,7 @@ The reference architecture of identity and access management establishes a numbe
 2. [Access control solutions respect the privacy of users.](#princip-2-brugerstyringsl-sninger-respekterer-brugernes-privatliv)
 3. [The service provider is responsible for enforcing the access policy.](#princip-3-tjenesteudbyder-har-ansvaret-for-at-adgangspolitikken-h-ndh-ves)
 4. [Identity and access management is separate from business services.](#princip-4-brugerstyring-er-adskilt-fra-forretningstjenester)
-5. [Identity and access management is achieved through loosely linked and standardized trust services.](#princip-5-brugerstyring-realiseres-via-l-st-koblede-og-standardiserede-komponenter)
+5. [Identity and access management is achieved through loosely linked and standardized trust services.](#princip-5-Brugerstyring-realiseres-via-løst-koblede-og-standardiserede-komponenter)
 6. [Service providers participate in federations.](#princip-6-tjenesteudbydere-indg-r-i-f-derationer)
 
 Business needs and the mentioned principles point to an architecture, where identity and access management is handled separately from the business solutions. The separation means, that multiple business solutions can use the same solution for user management within or across organizations and domains. Furthermore, the business solutions do not have to handle the administration of users themselves. 

@@ -1551,7 +1551,7 @@ Figur 30: Nemlogin3 kontekst
 
 Der er tale om en lagdelt model, hvor forretningstjenester skal koble sig til en broker (NemLog-in3 anvendes af offentlige tjenesteudbydere), og hvor kun brokerne har en integration med MitID. For den offentlige del baseres tilliden bl.a. på NSIS og eIDAS, og derudover er der specifikke aftaler og vilkår mellem de forskellige lag i infrastrukturen. Nedenstående BPMN-diagram viser samarbejdet mellem en forretningstjeneste og tre tillidstjenester (NemLog-in som broker, MitID som autentifikationstjeneste og CVR registreret som attributtjeneste) i et konkret forløb gennem infrastrukturens komponenter, når en bruger logger ind på en erhvervsrettet løsning:
 
-![Figur31_NemLogin3_samarbejde_imellem_tjenester.jpg](assets/Figur31_NemLogin3_samarbejde_imellem_tjenester.jpg)
+![Figur31_NemLogin3_samarbejde_imellem_tjenester.jpg](assets/Figur31_NemLogin3_samarbejde_imellem_tjenester.svg)
 
 Figur 31: NemLogin3 samarbejde imellem tjenester
 

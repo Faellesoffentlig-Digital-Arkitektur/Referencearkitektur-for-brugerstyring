@@ -7,7 +7,7 @@
    viewBox="0 5 210 50"
    version="1.1"
    id="svg1"
-   inkscape:version="1.4.2 (ebf0e94, 2025-05-08)"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
    sodipodi:docname="Figur19_Kald_med_forretningstjenester.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -24,16 +24,40 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="0.97548401"
-     inkscape:cx="396.72614"
+     inkscape:cx="398.26383"
      inkscape:cy="397.2387"
-     inkscape:window-width="3440"
-     inkscape:window-height="1334"
-     inkscape:window-x="-11"
-     inkscape:window-y="-11"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="g30" />
   <defs
      id="defs1">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2"
+       is_visible="true"
+       lpeversion="1" />
+    <marker
+       style="overflow:visible"
+       id="Triangle"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="2"
+       markerHeight="2"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
     <inkscape:path-effect
        effect="spiro"
        id="path-effect3"
@@ -54,25 +78,6 @@
        id="path-effect8"
        is_visible="true"
        lpeversion="1" />
-    <marker
-       style="overflow:visible"
-       id="DartArrow"
-       refX="0"
-       refY="0"
-       orient="auto-start-reverse"
-       inkscape:stockid="Dart arrow"
-       markerWidth="3"
-       markerHeight="3"
-       viewBox="0 0 1 1"
-       inkscape:isstock="true"
-       inkscape:collect="always"
-       preserveAspectRatio="xMidYMid">
-      <path
-         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
-         d="M 0,0 5,-5 -12.5,0 5,5 Z"
-         transform="scale(-0.5)"
-         id="path10" />
-    </marker>
     <inkscape:path-effect
        effect="spiro"
        id="path-effect9"
@@ -156,7 +161,7 @@
        inkscape:original-d="m 22.653826,35.129845 c 2.8875,0.976532 5.774999,1.953062 8.6625,2.929594"
        transform="matrix(0.70664917,-0.35838242,0.23941787,1.0577767,-11.666236,0.94271851)" />
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#DartArrow)"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle)"
        d="m 18.587755,30.912244 37.17551,0.05051"
        id="path8"
        inkscape:path-effect="#path-effect9"
@@ -245,13 +250,6 @@
        transform="matrix(0.70664917,-0.35838242,0.23941787,1.0577767,-11.666236,0.94271851)"
        inkscape:original-d="m 22.653826,35.129845 c 2.8875,0.976532 5.774999,1.953062 8.6625,2.929594"
        inkscape:path-effect="#path-effect26" />
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#DartArrow)"
-       d="m 18.587755,30.912244 37.17551,0.05051"
-       id="path18"
-       inkscape:path-effect="#path-effect28"
-       inkscape:original-d="m 18.587755,30.912244 c 12.358163,0.01683 24.766835,0.03367 37.17551,0.05051"
-       transform="matrix(0.83715107,0,0,1.2760287,4.7936786,-8.1372055)" />
     <text
        xml:space="preserve"
        style="font-size:4.05298px;line-height:125%;font-family:'Paralucent Medium';-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#4d69c4;fill-opacity:1;stroke:none;stroke-width:0.27634px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -300,7 +298,7 @@
        id="g30"
        transform="matrix(0.97964969,0,0,1.1135017,89.975462,-3.1053227)">
       <path
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#DartArrow)"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.2651053;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle)"
          d="m 18.587755,30.912244 37.17551,0.05051"
          id="path28"
          inkscape:path-effect="#path-effect31"
@@ -360,6 +358,13 @@
          x="56.288586"
          y="25.858463"
          ry="2.164629" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.2651053;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle)"
+         d="m 18.587755,30.912244 37.17551,0.05051"
+         id="path1"
+         inkscape:path-effect="#path-effect2"
+         inkscape:original-d="m 18.587755,30.912244 c 12.358163,0.01683 24.766835,0.03367 37.17551,0.05051"
+         transform="matrix(0.85454125,0,0,1.1459603,3.0071147,-4.518972)" />
     </g>
   </g>
 </svg>

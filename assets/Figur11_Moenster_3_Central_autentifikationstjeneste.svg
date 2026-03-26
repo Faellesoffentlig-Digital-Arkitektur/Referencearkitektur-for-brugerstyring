@@ -6,7 +6,7 @@
    height="120mm"
    id="svg4905"
    version="1.1"
-   inkscape:version="1.4.2 (ebf0e94, 2025-05-08)"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
    sodipodi:docname="Figur11_Moenster_3_Central_autentifikationstjeneste.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -17,6 +17,25 @@
    xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs4907">
+    <marker
+       style="overflow:visible"
+       id="Triangle"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
     <inkscape:path-effect
        effect="spiro"
        id="path-effect5851"
@@ -74,16 +93,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.2279853"
-     inkscape:cx="886.81843"
-     inkscape:cy="335.91607"
+     inkscape:zoom="0.86831673"
+     inkscape:cx="396.74463"
+     inkscape:cy="252.78794"
      inkscape:current-layer="layer1"
      id="namedview4909"
      showgrid="false"
-     inkscape:window-width="3440"
-     inkscape:window-height="1334"
-     inkscape:window-x="-11"
-     inkscape:window-y="-11"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="2"
      inkscape:pagecheckerboard="0"
@@ -145,7 +164,7 @@
        y="265.34341"
        ry="4.1074367" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Triangle)"
        d="M 233.78566,312.22442 405.38204,123.35324"
        id="path4949"
        inkscape:path-effect="#path-effect4951"
@@ -157,14 +176,15 @@
        inkscape:path-effect="#path-effect5843"
        id="path5841"
        d="M 631.10613,313.37607 459.50975,124.50489"
-       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)" />
+       style="fill:none;stroke:#000000;stroke-width:1.99937008;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Triangle);stroke-dasharray:none" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend);stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 633.40943,339.8641 -312.0981,0"
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle)"
+       d="M 633.40943,339.8641 H 321.31133"
        id="path5849"
        inkscape:path-effect="#path-effect5851"
-       inkscape:original-d="m 633.40943,339.8641 -312.0981,0"
-       inkscape:connector-curvature="0" />
+       inkscape:original-d="M 633.40943,339.8641 H 321.31133"
+       inkscape:connector-curvature="0"
+       transform="matrix(1.0144317,0,0,1,-9.1411982,0)" />
     <g
        id="g3308"
        transform="translate(363.40012,-37.334518)">

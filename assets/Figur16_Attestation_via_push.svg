@@ -6,7 +6,7 @@
    height="110mm"
    id="svg5280"
    version="1.1"
-   inkscape:version="1.4.2 (ebf0e94, 2025-05-08)"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
    sodipodi:docname="Figur16_Attestation_via_push.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -17,6 +17,25 @@
    xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs5282">
+    <marker
+       style="overflow:visible"
+       id="Triangle"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="2"
+       markerHeight="2"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
     <inkscape:path-effect
        effect="spiro"
        id="path-effect5398"
@@ -84,15 +103,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.61399264"
-     inkscape:cx="495.11994"
+     inkscape:cx="495.93428"
      inkscape:cy="557.82428"
-     inkscape:current-layer="g3453"
+     inkscape:current-layer="g7553"
      id="namedview5284"
      showgrid="false"
-     inkscape:window-width="3440"
-     inkscape:window-height="1334"
-     inkscape:window-x="-11"
-     inkscape:window-y="-11"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="2"
      inkscape:pagecheckerboard="0"
@@ -170,14 +189,14 @@
                  id="tspan6735-6">tillidstjeneste</tspan></text>
           </g>
           <path
-             style="fill:none;stroke:#000000;stroke-width:0.90927535;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#marker3185)"
+             style="fill:none;stroke:#000000;stroke-width:0.91070725;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Triangle)"
              d="M -645.97421,196.96289 -881.70646,34.147448"
              id="path3505"
              inkscape:path-effect="#path-effect3507"
              inkscape:original-d="M -645.97421,196.96289 -881.70646,34.147448"
              inkscape:connector-curvature="0" />
           <path
-             style="fill:none;stroke:#000000;stroke-width:0.90927535;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker3185)"
+             style="fill:none;stroke:#000000;stroke-width:0.91070725;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Triangle);stroke-dasharray:none"
              d="M -613.65763,196.59829 V 31.968542"
              id="path4927"
              inkscape:path-effect="#path-effect4929"
@@ -189,7 +208,7 @@
              inkscape:path-effect="#path-effect5119"
              id="path5117"
              d="M -576.46045,196.70472 -344.12425,34.143826"
-             style="fill:none;stroke:#000000;stroke-width:0.90927535;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#marker3185)" />
+             style="fill:none;stroke:#000000;stroke-width:0.91070725;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Triangle)" />
           <g
              id="g5382"
              transform="translate(325.80196,-6.5501628e-4)">
@@ -362,7 +381,7 @@
            id="rect3465"
            style="fill:none;stroke:#4d4d4d;stroke-width:1.9657166;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:4.42204145, 4.42204145;stroke-dashoffset:0" />
         <path
-           style="fill:none;stroke:#000000;stroke-width:0.9992126;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker5244);stroke-miterlimit:4;stroke-dasharray:none"
+           style="fill:none;stroke:#000000;stroke-width:1.0015748;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Triangle);stroke-miterlimit:4;stroke-dasharray:none"
            d="M 625.41466,349.95295 H 771.99622"
            id="path5396"
            inkscape:path-effect="#path-effect5398"

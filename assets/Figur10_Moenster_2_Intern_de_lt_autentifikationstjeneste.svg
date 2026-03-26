@@ -6,8 +6,8 @@
    height="110mm"
    id="svg2985"
    version="1.1"
-   inkscape:version="1.4.2 (ebf0e94, 2025-05-08)"
-   sodipodi:docname="Figur 10 - Moenster 2 - Intern de lt autentifikationstjeneste.svg"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   sodipodi:docname="Figur10_Moenster_2_Intern_de_lt_autentifikationstjeneste.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -17,6 +17,44 @@
    xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs2987">
+    <marker
+       style="overflow:visible"
+       id="marker1"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="2"
+       markerHeight="2"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Triangle"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="2"
+       markerHeight="2"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
     <marker
        inkscape:stockid="Arrow1Lend"
        orient="auto"
@@ -50,16 +88,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.43415836"
-     inkscape:cx="534.36723"
-     inkscape:cy="471.02629"
+     inkscape:zoom="0.86831672"
+     inkscape:cx="534.94306"
+     inkscape:cy="278.12432"
      inkscape:current-layer="layer1"
      id="namedview2989"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="974"
-     inkscape:window-x="-11"
-     inkscape:window-y="-11"
+     inkscape:window-height="1009"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="2"
      inkscape:pagecheckerboard="0"
@@ -85,8 +123,8 @@
        id="rect1"
        width="1027.2749"
        height="430.71841"
-       x="-2.3033071"
-       y="-4.6066141" />
+       x="-9.6323853"
+       y="-11.12135" />
     <text
        id="text4176"
        y="128.57568"
@@ -184,25 +222,28 @@
          id="tspan4327"
          sodipodi:role="line">autentifikation</tspan></text>
     <path
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       style="fill:none;stroke:#000000;stroke-width:1.00157;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle)"
        d="M 421.50519,147.53796 598.85983,191.3008"
        id="path3317"
        inkscape:path-effect="#path-effect3319"
        inkscape:original-d="M 421.50519,147.53796 C 598.85983,191.3008 598.85983,191.3008 598.85983,191.3008"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       transform="matrix(0.99036107,0,0,1.1768951,4.3395642,-26.308882)" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker1)"
        d="M 419.20188,304.16284 601.16313,251.18678"
        id="path3321"
        inkscape:path-effect="#path-effect3323"
        inkscape:original-d="M 419.20188,304.16284 601.16313,251.18678"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       transform="matrix(0.98357975,0,0,1.0676183,7.0070651,-20.45812)" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.9992126;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend);stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:none;stroke:#000000;stroke-width:0.999213;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1)"
        d="m 421.50519,223.5471 175.05133,-2.30331"
        id="path3325"
        inkscape:path-effect="#path-effect3327"
        inkscape:original-d="m 421.50519,223.5471 175.05133,-2.30331"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       transform="matrix(1.0046349,0,0,0.99760942,-1.9685791,0.52902257)" />
   </g>
 </svg>

@@ -253,6 +253,7 @@ I forhold til ejerskab af de elementer, der indgår i dokumentets figurer og def
 
 ## Styring
 
+### Introduktion til styring
 Dette kapitel indeholder en overordnet oversigt over de væsentligste organisatoriske rammer, interessenter og forretningsmål for brugerstyring.
 
 ### Styringsrammer

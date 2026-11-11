@@ -302,7 +302,8 @@ Som en den af arbejdet med at etablere en arkitektur for informationssikkerhed p
 
 ## Strategi
 
-Dette afsnit beskriver de overordnede forretningsbehov forstået som de strategiske kapabiliteter, der skal realiseres og væsentlige udfordringer (problemer og muligheder), som arkitekturen skal adressere.
+### Introduktion til strategi
+Dette kapitel beskriver de overordnede forretningsbehov forstået som de strategiske kapabiliteter, der skal realiseres og væsentlige udfordringer (problemer og muligheder), som arkitekturen skal adressere.
 
 ### Vision
 

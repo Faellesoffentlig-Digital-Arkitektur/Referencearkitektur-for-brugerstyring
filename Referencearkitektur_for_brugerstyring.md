@@ -253,7 +253,6 @@ I forhold til ejerskab af de elementer, der indgår i dokumentets figurer og def
 
 ## Styring
 
-### Introduktion til styring
 Dette kapitel indeholder en overordnet oversigt over de væsentligste organisatoriske rammer, interessenter og forretningsmål for brugerstyring.
 
 ### Styringsrammer
@@ -302,7 +301,6 @@ Som en den af arbejdet med at etablere en arkitektur for informationssikkerhed p
 
 ## Strategi
 
-### Introduktion til strategi
 Dette kapitel beskriver de overordnede forretningsbehov forstået som de strategiske kapabiliteter, der skal realiseres og væsentlige udfordringer (problemer og muligheder), som arkitekturen skal adressere.
 
 ### Vision
@@ -495,8 +493,6 @@ Erfaringen viser, at decentral brugerstyring giver større risiko for sikkerheds
 
 ## Jura
 
-### Om jura
-
 Foruden de forretningsmæssige, strategiske behov, der er beskrevet i det foregående kapitel, stiller lovgivningen en række krav til fx sikkerhed og policy. De mest relevante love og forordninger, der har særligt fokus på brugerstyring og adgangskontrol, er:
 
 * eIDAS forordningen \[[7](#bilag-1-kilder-og-baggrundsmateriale)\] (electronic IDentification, Authentication and trust Services) som regulerer tillidstjenester og elektroniske identifikationsordninger.
@@ -516,8 +512,6 @@ Som eksempler på hvordan ovennævnte regulering påvirker brugerstyring kan næ
 * Forvaltningsloven \[[14](#bilag-1-kilder-og-baggrundsmateriale)\] stiller krav om at den, der er part i en sag med det offentlige, skal kunne lade sig partsrepræsentere. Dette kan betyde, at en myndighed, som udstiller digitale løsninger, også bør kunne håndtere digitale fuldmagter.
 
 ## Sikkerhed
-
-### Om sikkerhed
 
 Fastlæggelse af niveau for og håndtering af informationssikkerhed skal foretages af alle offentlige organisationer og tage udgangspunkt i ISO/IEC 27001-standarden \[[15](#bilag-1-kilder-og-baggrundsmateriale)\] for styring af informationssikkerhed. Med udgivelse af den danske oversættelse af ISO 27001 standarden i januar 2014 blev det obligatorisk for de statslige myndigheder at følge ISO 27001 standarden. Kommunerne er også forpligtet til at følge principperne, ligesom alle regionsråd har besluttet, at regionerne skal følge dem.
 
